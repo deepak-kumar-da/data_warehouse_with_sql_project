@@ -9,11 +9,11 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
   3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ### Data Planning
-This project involves:
-  **Data Architecture:** Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
-  **ETL Pipelines:** Extracting, transforming, and loading data from source systems into the warehouse.
-  **Data Modeling:** Developing fact and dimension tables optimized for analytical queries.
-  **Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.
+This project involves:<br>
+  **Data Architecture:** Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.<br>
+  **ETL Pipelines:** Extracting, transforming, and loading data from source systems into the warehouse.<br>
+  **Data Modeling:** Developing fact and dimension tables optimized for analytical queries.<br>
+  **Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.<br>
 
 ### Building the Data Warehouse
 **Objective -** Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
@@ -64,5 +64,3 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ### About Me 
 Hi There, I am Deepak Kumar. I am a data analyst enthusiast passionate about data analytics, business intelligence 
 and solving real world problems through data driven insights.
-Scope: Focus on the latest dataset only; historization of data is not required.
-Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.

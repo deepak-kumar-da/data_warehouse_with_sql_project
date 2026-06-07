@@ -26,7 +26,7 @@ This project involves:<br>
   5. **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ### BI: Analytics & Reporting
-**Objective -**Develop SQL-based analytics to deliver detailed insights into:<br>
+**Objective** -Develop SQL-based analytics to deliver detailed insights into:<br>
          1. **Customer Behavior**<br>
          2. **Product Performance**<br>
          3. **Sales Trends**<br>

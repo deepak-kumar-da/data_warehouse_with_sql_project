@@ -27,9 +27,9 @@ This project involves:<br>
 
 ### BI: Analytics & Reporting
 **Objective -**Develop SQL-based analytics to deliver detailed insights into:<br>
-        -  -> **Customer Behavior**
-        -  -> **Product Performance**
-        -  -> **Sales Trends**
+         1. **Customer Behavior**<br>
+         2. **Product Performance**<br>
+         3. **Sales Trends**<br>
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ### Repository Structure

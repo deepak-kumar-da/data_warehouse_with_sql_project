@@ -16,7 +16,7 @@ This project involves:<br>
   4. **Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.<br>
 
 ### Building the Data Warehouse
-**Objective -** <br>Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+**Objective** - <br>Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 ### Specifications
   1. **Data Sources:** Import data from two source systems (ERP and CRM) provided as CSV files.<br>

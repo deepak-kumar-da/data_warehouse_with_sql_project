@@ -31,8 +31,8 @@ This project involves:<br>
          2. **Product Performance**<br>
          3. **Sales Trends**<br>
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-<img width="737" height="418" alt="2" src="https://github.com/user-attachments/assets/0ba92678-883d-4000-9f2b-4d999bd228ba" />
 <img width="744" height="417" alt="1" src="https://github.com/user-attachments/assets/114230f0-b9a7-45ed-8dea-6aa5fa84ec8e" />
+<img width="737" height="418" alt="2" src="https://github.com/user-attachments/assets/0ba92678-883d-4000-9f2b-4d999bd228ba" />
 
 
 ### Repository Structure
